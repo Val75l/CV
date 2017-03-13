@@ -1,0 +1,80 @@
+
+body {
+    background-color: rgb(104, 187, 285);
+    text-align: center;
+}
+
+img {
+  max-width:180px;
+  max-width:180px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+div#header {
+    background-color: blue;
+    font-size: 25pt;
+    font-style: Verdana;
+    color: white;
+    width: 1240px;
+    height: 220px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+div#left-box {
+    background-color: rgb(009, 030, 045);
+    float: left;
+    margin-left: 20px;
+    width: 200px;
+    height: 600px;
+    color: white;
+}
+
+
+}
+
+div#right-box {
+    background-color: rgb(009, 030, 045);
+    float: right;
+    margin-right: 20px;
+    width: 1000px;
+    height: 600px;
+}
+
+div#experiences-box {
+    background-color: white;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    height: 270px;
+    width: 980px;
+}
+
+div#studies-box {
+    background-color: white;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 40px;
+    height: 270px;
+    width: 980px;
+}
+
+div#footer {
+  background-color: blue;
+  font-size: 25pt;
+  font-style: Verdana;
+  color: white;
+  width: 1240px;
+  height: 220px;
+  margin-top: 650px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  align-items: bottom;
+}
